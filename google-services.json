@@ -1,21 +1,22 @@
 {
   "project_info": {
-    "project_number": "596133435755",
-    "project_id": "loanbook-8f8ef",
-    "storage_bucket": "loanbook-8f8ef.firebasestorage.app"
+    "project_number": "708945993991",
+    "firebase_url": "https://skillboost-8fcfb-default-rtdb.firebaseio.com",
+    "project_id": "skillboost-8fcfb",
+    "storage_bucket": "skillboost-8fcfb.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:596133435755:android:770075e731f447b71b942e",
+        "mobilesdk_app_id": "1:708945993991:android:556fc236907be25e4025a2",
         "android_client_info": {
-          "package_name": "com.loanBook.site"
+          "package_name": "com.LoanBook.site"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCGT-XibfKXJ12Vy3gk5bdj1-Q8WmHT2Ec"
+          "current_key": "AIzaSyDVZ8AXzqan77ntpspAQfILRBkj6YzCUl0"
         }
       ],
       "services": {
