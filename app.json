@@ -2,6 +2,7 @@
   "expo": {
     "name": "LoanBook",
     "slug": "LoanBook",
+    "entryPoint": "./node_modules/expo-router/entry",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -15,7 +16,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.anonymous.LoanBook"
     },
     "web": {
       "bundler": "metro",

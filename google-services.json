@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596133435755",
+    "project_id": "loanbook-8f8ef",
+    "storage_bucket": "loanbook-8f8ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596133435755:android:770075e731f447b71b942e",
+        "android_client_info": {
+          "package_name": "com.loanBook.site"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGT-XibfKXJ12Vy3gk5bdj1-Q8WmHT2Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
