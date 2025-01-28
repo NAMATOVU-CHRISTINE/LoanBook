@@ -106,7 +106,7 @@ const TabNavigator = () => (
 
 const AuthStack = () => (
   <Stack.Navigator screenOptions={{ headerShown: false }}>
-    <Stack.Screen name="Splash" component={SplashScreen} />
+  
     <Stack.Screen name="Login" component={LoginScreen} />
     <Stack.Screen name="SignUp" component={SignUpScreen} />
     <Stack.Screen name="ForgotPassword" component={ForgotPasswordScreen} />
@@ -139,9 +139,9 @@ const RootNavigator = () => {
     return () => subscription.remove();
   }, []);
 
-  if (loading) {
-    return <SplashScreen />;
-  }
+  // if (loading) {
+  //   return   <SplashScreen />;
+  // }
 
   return !user ? <AuthStack /> : <AppStack />;
 };

@@ -329,7 +329,7 @@ const ProfileScreen = ({ navigation }) => {
                 style={styles.settingsItem}
                 onPress={() =>{
                     auth.signOut()
-                navigation.replace('Login')
+                
                 }}
               >
                 <View style={styles.settingsItemLeft}>
